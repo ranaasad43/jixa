@@ -9,7 +9,7 @@
   background:  url('../../img/bg2.jpg') no-repeat;  
   background-size:cover;
   position: relative; 
-  height: 600px;
+  height: 700px;
   width: 100%;
   z-index: 1; 
 }
@@ -182,8 +182,6 @@ footer h3{
 .social i:hover{
  opacity: 0.4;
 }
-
-
 
 
 
