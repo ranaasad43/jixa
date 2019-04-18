@@ -1,0 +1,9 @@
+$(function(){
+    $('.carousel').carousel({
+        interval:5000,
+        keybord:true,
+        pause:'hover',
+        ride:false,
+        wrap:true
+    })
+})

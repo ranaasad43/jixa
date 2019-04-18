@@ -1,0 +1,199 @@
+*{
+  font-family: sans-serif;
+}
+
+
+.jumbo{
+  margin-bottom:0;
+ 
+  background:  url('../../img/bg2.jpg') no-repeat;  
+  background-size:cover;
+  position: relative; 
+  height: 600px;
+  width: 100%;
+  z-index: 1; 
+}
+.overlay{
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background:#333;
+  z-index: 2;
+  opacity: 0.30;
+}
+.btn1{
+  background:#b30000;
+  font-size:20px;
+  font-weight: bold;
+  margin-top:30px;
+}
+.btn1:hover{
+  background:#cc0000;
+  box-shadow: 2px 2px 2px #333;
+  
+}
+
+.jumbo-text{
+  width: 100%;
+}
+
+.jumbo-text h1{
+  font-size: 65px;
+  opacity: 1;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 2px #333;
+}
+.jumbo-text p{
+  font-size: 25px;
+  color: #ddd;
+}
+
+nav a{
+  font-size:25px;
+}
+.navbar-brand {
+  font-size: 30px;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
+
+.fa,.fab{
+  font-size:4rem;
+  margin: 10px;
+}
+
+.fa-code{
+  color: red;
+}
+
+.fa-css3{
+  color: #2163af;
+}
+.fa-js{
+  color: #ffcc00;
+}
+
+.fa-bold{
+  color: #4747d1;
+}
+
+.col6-img{
+  border: 20px solid #b3e0ff;
+}
+.navbar{
+  background-color: #00264d;
+}
+.footer{
+  background-color: #00264d;
+}
+.hr{
+  color: black;
+}
+
+.slider{
+  margin: 20px 1px;
+
+}
+.slider h1{
+  font-size:60px;
+  font-weight:bold;
+  text-shadow: 2px 2px 2px #333;
+}
+.slider img{
+  width: 100%;
+  height: 700px;
+}
+footer h3{
+  color:#ddd;
+}
+.card img{
+  width: 100%;
+  height: 350px;
+}
+.card{
+  padding: 5px;
+}
+.card h2{
+  text-align: center;
+}
+.card a{
+  position: relative;
+  left: 25%;
+}
+.cards-container h1{
+  text-align: center;
+   font-size: 70px;
+   margin-bottom: 20px;
+}
+.jumbo-best{
+  margin:20px 0; 
+  width: 100%;
+  height: 600px;
+  background:url('../../img/best.jpg') no-repeat fixed;
+  background-size: cover;
+  position:relative;
+  padding: 20px;
+  text-align: center;
+  opacity: 0.8; 
+}
+.best-text{
+  position: absolute;
+  top:40%;
+}
+.best-text h1{
+  color: #ddd;
+  font-weight:bold;
+  font-size: 50px;
+  text-shadow: 2px 2px #333; 
+}
+.best-text p{
+  color: white;
+  font-size: 18px;
+  text-shadow: 2px 2px #333; 
+}
+
+.social a{
+  margin-left: 60px;
+}
+.fa-youtube{
+  color: red;
+}
+.fa-instagram{
+  color: #007acc;
+}
+.fa-twitter{
+  color: #66c2ff;
+}
+.fa-github{
+  color: #333;
+}
+.fa-facebook{
+  color: #0066cc;
+}
+.fa-linkedin-in{
+  color: #0066cc;
+}
+
+.social i:hover{
+ opacity: 0.4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
